@@ -17,9 +17,9 @@ const HomePage = () => {
                 <>
                     <MoviesList  />
                     <MoreButton />
-                    <FavoriteMoviesList />
                 </>
             }
+            <FavoriteMoviesList />
         </div>
     );
 };
